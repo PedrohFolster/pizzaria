@@ -1,4 +1,4 @@
-<h1 align="center">🍕 Welcome to the Pizzaria Website Project! 🍕</h1>
+<h1 align="center">🍕 Welcome to the Pizzeria Website Project! 🍕</h1>
 
 <p align="center">This is a web application that allows users to explore available pizza flavors, create new pizzas, add items to their cart, and complete their purchase. The project is developed using Java with Spring Boot for the backend and React for the frontend.</p>
 
